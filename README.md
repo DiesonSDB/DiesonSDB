@@ -4,4 +4,5 @@
 - 🌱 Atualmente estou estudando front-end
 ### Veja meus projetos ^^ 
 
- ![Snake animation](https://github.com/DiesonSDB/DiesonSDB/blob/output/github-contribution-grid-snake.svg)
+
+
